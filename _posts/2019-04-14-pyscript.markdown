@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Py Script 개발기"
+date:   2014-12-14
+---
+
+<p class="intro"><span class="dropcap">P</span>Pyscript 는 웹에서 사용 할 수 있는 파이썬 언어</p>
+
+# 1.Pyscript 개발 계기
+파이썬에는 여러 웹서버 관련 프레임워크 있습니다. 
+대표적인 걸로 Django , Flask 등 이 있죠
+
+굳이 새로운 언어를 배울 필요 없이 파이썬으로 웹도 프로그래밍 할 수 있게 만드는 목표였습니다.
+
